@@ -25,9 +25,8 @@ Databases: MySQL, MongoDB, PostgreSQL
 
 💬 Ask me about Spring, Spring boot, Java, Flutter, MERN and Cybersecurity.
 
-
-
-Connect with me:omkar-lolage-2135vo instagram.com/omkar.lolage21 giorgiocarbone
+Connect with me:
+![image](https://github.com/user-attachments/assets/7be7b10a-c7b3-4701-a5cb-bba73604953b)
 
 Languages and Tools:
 spring flutter java android angular arduino bash c cplusplus dart dotnet express figma firebase flask gcp git bootstrap html5 css3 javascript mongodb mssql mysql nodejs php postman pug python react tailwind tensorflow AppsscriptCassandraAstraDBLinux..
