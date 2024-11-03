@@ -19,6 +19,15 @@ Frontend: JavaScript (React, Angular, Vue), HTML5, CSS3
 Backend: Python (Django, Flask), Java (Spring, Hibernate), Node.js
 Databases: MySQL, MongoDB, PostgreSQL
 
+Connect with me:
+omkar-lolage-2135vo instagram.com/omkar.lolage21 giorgiocarbone
+
+Languages and Tools:
+spring flutter java android angular arduino bash c cplusplus dart dotnet express figma firebase flask gcp git bootstrap html5 css3 javascript mongodb mssql mysql nodejs php postman pug python react tailwind tensorflow AppsscriptCassandraAstraDBLinux..
+
+![image](https://github.com/user-attachments/assets/c90a53d2-50f7-4213-8cbb-e8811beaa78f)
+
+
 <!---
 Unknoymous/Unknoymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
